@@ -9,9 +9,17 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 # 🎮 MaisEsports YouTube Tracker
 
 **Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube**
+
+<br>
+
+[![Download Latest Release](https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)
+[![GitHub Stars](https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker)
+
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](.)
+[![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000)](.)
+
 </div>
-<div align="center">
-  <img src="{{ '/assets/images/mais-esports-logo.png' | relative_url }}" alt="MaisEsports Logo" style="max-width: 300px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,255,127,0.3);">
+
 ---
 
 ## ✨ Funcionalidades
