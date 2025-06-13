@@ -14,7 +14,6 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 
 [![Download Latest Release](https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)
 [![GitHub Stars](https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker)
-
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](.)
 [![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000)](.)
 
@@ -27,22 +26,22 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 <div class="features-grid">
   <div class="feature">
     <h3>🔔 Notificações Automáticas</h3>
-    <p>Receba alertas instantâneos quando novos vídeos são publicados no canal MaisEsports</p>
+    <p>Receba alertas instantâneos quando novos vídeos são publicados no canal MaisEsports.</p>
   </div>
-  
+
   <div class="feature">
     <h3>🎯 Filtro Inteligente</h3>
-    <p>Monitora apenas vídeos longos, excluindo automaticamente os YouTube Shorts</p>
+    <p>Monitora apenas vídeos longos, excluindo automaticamente os YouTube Shorts.</p>
   </div>
-  
+
   <div class="feature">
     <h3>🖼️ Preview Visual</h3>
-    <p>Veja a thumbnail do último vídeo detectado diretamente no popup da extensão</p>
+    <p>Veja a thumbnail do último vídeo detectado diretamente no popup da extensão.</p>
   </div>
-  
+
   <div class="feature">
     <h3>⚡ Acesso Rápido</h3>
-    <p>Botão direto para assistir ao vídeo no YouTube com apenas um clique</p>
+    <p>Botão direto para assistir ao vídeo no YouTube com apenas um clique.</p>
   </div>
 </div>
 
@@ -53,11 +52,11 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 ### Método 1: Download Direto
 
 1. **[📦 Baixe a última versão](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)**
-2. Extraia o arquivo ZIP
-3. Acesse `chrome://extensions/` no Chrome
-4. Ative o **"Modo do desenvolvedor"**
-5. Clique em **"Carregar sem compactação"**
-6. Selecione a pasta extraída
+2. Extraia o arquivo ZIP.
+3. Acesse `chrome://extensions/` no Chrome.
+4. Ative o **"Modo do desenvolvedor"**.
+5. Clique em **"Carregar sem compactação"**.
+6. Selecione a pasta extraída.
 
 ### Método 2: Clonar Repositório
 
