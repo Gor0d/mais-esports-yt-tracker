@@ -1,8 +1,18 @@
 # 🎮 Notificador MaisEsports
 
-![Status](https://img.shields.io/badge/status-teste-orange)
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Platform](https://img.shields.io/badge/platform-Chrome-green)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f)
+![GitHub downloads](https://img.shields.io/github/downloads/Gor0d/mais-esports-yt-tracker/total?style=for-the-badge&logo=download&color=00cc66)
+![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-green?style=for-the-badge&logo=googlechrome&color=00ff7f)
+![Manifest Version](https://img.shields.io/badge/Manifest-V3-blue?style=for-the-badge&logo=chrome&color=1a73e8)
+
+![GitHub stars](https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Gor0d/mais-esports-yt-tracker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Gor0d/mais-esports-yt-tracker?style=flat&color=red)
+![GitHub last commit](https://img.shields.io/github/last-commit/Gor0d/mais-esports-yt-tracker?style=flat&color=blue)
+
+![Status](https://img.shields.io/badge/status-experimental-orange?style=flat)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat)
 
 Uma extensão experimental para o Chrome que monitora o canal **MaisEsports** no YouTube e envia notificações quando novos vídeos são publicados.
 
@@ -16,6 +26,14 @@ Uma extensão experimental para o Chrome que monitora o canal **MaisEsports** no
 - ▶️ **Acesso Rápido**: Botão direto para assistir ao vídeo no YouTube
 - 🔄 **Verificação Manual**: Opção para verificar manualmente por novos conteúdos
 - 🎨 **Visual Personalizado**: Interface inspirada na identidade visual do MaisEsports
+
+## 📸 Screenshots
+
+### Interface Principal
+![Interface](https://via.placeholder.com/320x400/000000/00ff7f?text=Interface+MaisEsports)
+
+### Notificação
+![Notificação](https://via.placeholder.com/400x100/1a1a1a/00ff7f?text=Novo+Vídeo+Detectado!)
 
 ## 🚀 Instalação
 
