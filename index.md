@@ -4,29 +4,26 @@ title: "MaisEsports YouTube Tracker"
 description: "Extensão experimental para Chrome que monitora novos vídeos do canal MaisEsports"
 ---
 
-<div align="center">
+<h1 align="center">🎮 MaisEsports YouTube Tracker</h1>
+<p align="center"><strong>Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube</strong></p>
 
-# 🎮 MaisEsports YouTube Tracker
+<div align="center" style="margin-top: 20px;">
 
-<p><strong>Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube</strong></p>
+  <a href="https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000" alt="Download Latest Release">
+  </a>
 
-<br>
+  <a href="https://github.com/Gor0d/mais-esports-yt-tracker">
+    <img src="https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000" alt="GitHub Stars">
+  </a>
 
-<a href="https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest">
-  <img src="https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000" alt="Download Latest Release"/>
-</a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Chrome Extension">
+  </a>
 
-<a href="https://github.com/Gor0d/mais-esports-yt-tracker">
-  <img src="https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000" alt="GitHub Stars"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Chrome Extension"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000" alt="Status Experimental"/>
-</a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000" alt="Status Experimental">
+  </a>
 
 </div>
 
