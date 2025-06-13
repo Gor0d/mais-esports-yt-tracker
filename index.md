@@ -8,16 +8,28 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 
 # 🎮 MaisEsports YouTube Tracker
 
-**Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube**
+<p><strong>Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube</strong></p>
 
 <br>
 
-[![Download Latest Release](https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)
-[![GitHub Stars](https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](.)
-[![Status](https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000)](.)
+<a href="https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest">
+  <img src="https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000" alt="Download Latest Release"/>
+</a>
+
+<a href="https://github.com/Gor0d/mais-esports-yt-tracker">
+  <img src="https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000" alt="GitHub Stars"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Chrome Extension"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Status-Experimental-orange?style=for-the-badge&labelColor=000000" alt="Status Experimental"/>
+</a>
 
 </div>
+
 
 ---
 
