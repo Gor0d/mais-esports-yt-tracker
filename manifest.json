@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Notificador MaisEsports",
+  "version": "1.0",
+  "description": "Notifica sobre novos vídeos do canal MaisEsports",
+  "permissions": [
+    "storage",
+    "alarms",
+    "notifications",
+    "scripting"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "maisesports.png",
+      "48": "maisesports.png",
+      "128": "maisesports.png"
+    }
+  },
+  "icons": {
+    "16": "maisesports.png",
+    "48": "maisesports.png",
+    "128": "maisesports.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.youtube.com/channel/UCMM1aoTVRH6j3h_GDMYuUvw*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
