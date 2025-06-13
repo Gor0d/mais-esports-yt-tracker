@@ -136,7 +136,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Se você tiver dúvidas sobre este projeto experimental:
 
-- 📧 **Email**: seu-email@exemplo.com
+- 📧 **Email**: emersongsguimaraes@gmail.com
 - 🐙 **GitHub**: [@Gor0d](https://github.com/Gor0d)
 - 💬 **Issues**: [Reportar problema](https://github.com/Gor0d/mais-esports-yt-tracker/issues)
 
