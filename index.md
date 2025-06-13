@@ -5,7 +5,7 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 ---
 
 <div align="center">
-  <img src="{{ '/assets/images/maisesports.png' | relative_url }}" alt="MaisEsports Logo" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/Gor0d/mais-esports-yt-tracker/master/maisesports.png" alt="MaisEsports Logo" width="80" height="80">
   
   # 🎮 MaisEsports YouTube Tracker
   
