@@ -5,14 +5,15 @@ description: "Extensão experimental para Chrome que monitora novos vídeos do c
 ---
 
 <div align="center">
-  <img src="maisesports.png" alt="MaisEsports Logo" width="80" height="80">
+  <img src="{{ '/assets/images/maisesports.png' | relative_url }}" alt="MaisEsports Logo" width="80" height="80">
   
   # 🎮 MaisEsports YouTube Tracker
   
   **Uma extensão experimental para Chrome que monitora o canal MaisEsports no YouTube**
   
-  [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-00ff7f?style=for-the-badge&logo=download)](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)
-  [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-gray?style=for-the-badge&logo=googlechrome)](.)
+  [![Download Latest Release](https://img.shields.io/github/v/release/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=download&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker/releases/latest)
+  [![GitHub Stars](https://img.shields.io/github/stars/Gor0d/mais-esports-yt-tracker?style=for-the-badge&logo=github&color=00ff7f&labelColor=000000)](https://github.com/Gor0d/mais-esports-yt-tracker)
+  [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-00ff7f?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000)](.)
 </div>
 
 ---
@@ -92,10 +93,14 @@ cd mais-esports-yt-tracker
 ## 📸 Screenshots
 
 ### Interface Principal
-![Interface Principal](https://via.placeholder.com/600x400/000000/00ff7f?text=Interface+da+Extensão)
+<div align="center">
+  <img src="{{ '/assets/images/interface-principal.png' | relative_url }}" alt="Interface Principal" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,255,127,0.3);">
+</div>
 
 ### Notificação Desktop
-![Notificação](https://via.placeholder.com/600x200/1a1a1a/00ff7f?text=Notificação+de+Novo+Vídeo)
+<div align="center">
+  <img src="{{ '/assets/images/notificacao-desktop.png' | relative_url }}" alt="Notificação Desktop" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,255,127,0.3);">
+</div>
 
 ---
 
@@ -151,43 +156,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
   <p><strong>Feito com ❤️ para a comunidade de esports brasileira</strong></p>
   <p><em>"Nunca perca um vídeo do seu portal de esports favorito!"</em></p>
 </div>
-
-<style>
-  .features-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 1.5rem;
-    margin: 2rem 0;
-  }
-  
-  .feature {
-    padding: 1.5rem;
-    border: 1px solid #00ff7f;
-    border-radius: 8px;
-    background: rgba(0, 255, 127, 0.05);
-  }
-  
-  .feature h3 {
-    color: #00ff7f;
-    margin-bottom: 0.5rem;
-  }
-  
-  .usage-steps {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 1rem;
-    margin: 2rem 0;
-  }
-  
-  .step {
-    text-align: center;
-    padding: 1rem;
-    border-radius: 8px;
-    background: rgba(26, 26, 26, 0.3);
-  }
-  
-  .step h3 {
-    color: #00ff7f;
-    margin-bottom: 0.5rem;
-  }
-</style>

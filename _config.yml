@@ -7,11 +7,9 @@ baseurl: "/mais-esports-yt-tracker"
 # Autor
 author:
   name: "Gor0d"
-  email: "emersongsguimaraes@gmail.com"
   github: "Gor0d"
 
 # Tema
-theme: minima
 remote_theme: pages-themes/hacker@v0.2.0
 
 # Plugins
@@ -28,7 +26,6 @@ permalink: pretty
 # Configurações de build
 safe: true
 incremental: false
-profile: false
 
 # Excluir arquivos do build
 exclude:
@@ -40,22 +37,11 @@ exclude:
   - maisesports.png
   - icons/
   - .gitignore
-  - Gemfile
-  - Gemfile.lock
   - node_modules/
   - vendor/
 
-# Configurações sociais
-github_username: Gor0d
-social_links:
-  - https://github.com/Gor0d/mais-esports-yt-tracker
-
-# Google Analytics (opcional)
-# google_analytics: UA-XXXXXXXXX-X
-
 # SEO
 lang: pt-BR
-favicon: /assets/favicon.ico
 
 # Configurações específicas do projeto
 project:
